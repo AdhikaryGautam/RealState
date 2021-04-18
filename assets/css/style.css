@@ -1752,6 +1752,24 @@ a:hover {
 #sellProperty .icon{
   color: #2eca6a;
 }
+#sellProperty button{
+  background-color: #2eca6a;
+  outline: none;
+  border: none;
+  color: #fff;
+  border-radius: 10px;
+  padding: 7px 12px;
+  margin-top: 28px;
+}
+#sellProperty select:focus {
+  box-shadow: none;
+  border: none;
+}
+#sellProperty select {
+  border: none;
+  word-wrap: normal;
+  border-bottom: 2px solid #cdcdcd;
+}
 
 
 /*--------------------------------------------------------------
